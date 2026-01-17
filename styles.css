@@ -217,4 +217,51 @@ height: 270px;
 .part-last{
     margin-top: 6%;
     padding-top: 50px;
+    margin-left: 2000;
+}
+
+
+@media screen and (max-width: 576px){
+
+    .navbar{
+        flex-direction: column;
+    }
+    .link-item{
+        flex-direction: column;
+    }
+    .secend-head{
+        flex-direction: column;
+    }
+    .daraz{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .pro-card{
+        flex-direction: column;
+       
+    }
+    .camara-margin{
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 200px;
+    }
+    .card{
+        width: 90%;
+    margin-left: -4px;
+}
+.camara{
+    width: 100%;
+    margin: 0 auto;
+    padding-left: -100%;
+}
+.last-kid{
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+}
+.last-img{
+    margin-left: -29px;
+}
+
 }
