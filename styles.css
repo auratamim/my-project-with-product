@@ -1,0 +1,220 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400px;
+ 
+  
+}
+
+
+*{
+    margin: 0;
+}
+
+
+
+
+
+body{
+    background-color: rgba(245, 245, 245, 0.829);
+}
+
+.navbar{
+    display: flex;
+  
+   
+  
+    
+
+}
+nav{
+
+    margin: 0 auto;
+    
+    
+}
+.link-item {
+    display: flex;
+    list-style: none;
+    gap: 34px;
+    margin-top: 96px;
+    
+}
+.item{
+      text-decoration: none;
+      color: black;
+      font-size: 20px;
+font-weight: 600;
+} 
+.brand{
+    margin-top: 87px;
+    font-size: 30px;
+font-weight: 800;
+margin-left: 90px;
+}
+
+
+
+.camara{
+    width: 420px;
+    margin-left: 120px;
+  
+}
+
+.secend-head{
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.title-bar{
+    font-size: 52px;
+font-weight: 700;
+}
+
+.title-driscription{
+    font-size: 16px;
+font-weight: 600;
+margin-top: -20px;
+}
+
+
+.button-class{
+    font-size: 16px;
+font-weight: 700;
+width: 196px;
+height: 44px;
+padding: 10px 24px 10px 24px;
+border-radius: 41px;
+background: rgba(224, 44, 109, 1);
+border: none;
+color: white;
+}
+.camara-margin{
+    margin-top: -100%;
+    margin-left: 66%;
+    max-width: 400px;
+    width: 100%;
+}
+
+
+/*  */
+.daraz{
+   
+    max-width: 65%;
+    margin: 0 auto;
+    display: flex;
+    gap: px;
+    margin-top: 150px;
+    
+}
+.img-pro{
+   
+    margin: 0 auto;
+    width: 84px;
+
+}
+
+/*  */
+.card-title{
+font-size: 28px;
+font-weight: 600;
+text-align: center;
+margin-top: 128px;
+
+}
+
+
+/*  */
+.card{
+    
+    width: 360px;
+/* height: 500px; */
+box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+background: rgba(255, 255, 255, 1);
+border-radius: 5px;
+  margin: 0 auto;
+  margin: 20px;
+  margin-left: 40px;
+   
+}
+.card-image{
+   
+    width: 400px;
+
+
+}
+
+.padding  img{
+    width: 100%;
+    ;
+}
+.padding{
+padding: 20px;
+}
+
+.card-text{
+    font-size: 28px;
+font-weight: 500;
+
+}
+.value{
+    font-size: 24px;
+font-weight: 400;
+margin-top: -15px;
+}
+
+.card-drescription{
+font-size: 14px;
+font-weight: 700;
+margin-top: -10;
+}
+.pro-card{
+   display: flex;
+    
+      flex-wrap: wrap;
+    max-width: 70% ;
+    
+    margin: 0 auto;
+    
+    gap: 20px;
+}
+ 
+/*  */
+.footer-last{
+    max-width: 70%;
+
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+   
+}
+
+.last-img{
+width: 404px;
+height: 270px;
+}
+.last-kid{
+    margin-left: 12%;
+}
+
+.last-last{
+    height: 239px;
+    background-color: rgb(3, 3, 43);
+}
+
+.last-chalange{
+      
+    text-align: center;
+    color: white;
+}
+.part-last{
+    margin-top: 6%;
+    padding-top: 50px;
+}
